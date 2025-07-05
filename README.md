@@ -1,6 +1,7 @@
 
 Prerequisites
 Node.js 
+
 Setup
 - Clone or download this repository
 - Place your source directory (e.g., alphafold) containing .cif files in your project folder
